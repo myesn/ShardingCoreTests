@@ -1,7 +1,7 @@
-# ¼ò½é
+# ç®€ä»‹
 
-±¾²Ö¿âÓÃÓÚ²âÊÔºÍÑĞ¾¿ [ShardingCore](https://github.com/dotnetcore/sharding-core) ¿ªÔ´¿â¡£
+æœ¬ä»“åº“ç”¨äºæµ‹è¯•å’Œç ”ç©¶ [ShardingCore](https://github.com/dotnetcore/sharding-core) å¼€æºåº“ã€‚
 
-# Ê¾Àı
+# ç¤ºä¾‹
 
-- samples/ShardingCoreTests.MultiField [¶à×Ö¶Î·ÖÆ¬](https://www.cnblogs.com/xuejiaming/p/15728340.html) 
+- [ ] samples/ShardingCoreTests.MultiField [å¤šå­—æ®µåˆ†ç‰‡](https://www.cnblogs.com/xuejiaming/p/15728340.html) 
